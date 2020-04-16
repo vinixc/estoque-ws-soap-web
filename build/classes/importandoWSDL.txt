@@ -1,0 +1,1 @@
+sh wsconsume.sh -k -n -o /home/desenvolvimento/Jboss-E/workspace-Jboss/estoque-ws/src/ /home/desenvolvimento/Jboss-E/workspace-Jboss/estoque-ws/src/EstoqueWSServiceCap5.wsdl
